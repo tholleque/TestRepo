@@ -1,0 +1,15 @@
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\bin\Debug\net6.0\Deliverable2_CodeAlong.exe
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\bin\Debug\net6.0\Deliverable2_CodeAlong.deps.json
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\bin\Debug\net6.0\Deliverable2_CodeAlong.runtimeconfig.json
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\bin\Debug\net6.0\Deliverable2_CodeAlong.dll
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\bin\Debug\net6.0\Deliverable2_CodeAlong.pdb
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.csproj.AssemblyReference.cache
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.AssemblyInfoInputs.cache
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.AssemblyInfo.cs
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.dll
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\refint\Deliverable2_CodeAlong.dll
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.pdb
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\Deliverable2_CodeAlong.genruntimeconfig.cache
+C:\Users\timot\OneDrive\Desktop\Deliverable2_CodeAlong\Deliverable2_CodeAlong\obj\Debug\net6.0\ref\Deliverable2_CodeAlong.dll
